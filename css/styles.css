@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-decoration: none;
+    list-style: none;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+
+}
+p {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1em;
+}
+
+.img-hero{
+height:600px;
+width:500px;
+
+}
+.adoptar{
+    background-color: #519259;
+  color: #fff;
+}
+.card{
+   color: #000;
+}
+
+.about-us{
+    background-color: #82954B;
+    color: #fff;
+}
+
+#contact{ 
+    background-color: #b2e6b8;
+}
+.form-contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+#volunteer{
+    background-color: #519259;
+}
+#footer{
+    background-color: #212614;
+}
+main{
+    background-color: rgba(0,0,0,0.6);
+}
+.about{
+    background-color: #519259;
+    color: #fff;
+    margin-top: .4rem;
+   
+}
